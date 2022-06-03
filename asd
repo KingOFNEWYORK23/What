@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick(“lol u executed this”)
+print("Hello world")
